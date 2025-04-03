@@ -1,5 +1,4 @@
 package com.grades.gradesmanagement.dto;
-
 import lombok.Data;
 
 @Data
